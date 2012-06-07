@@ -5,5 +5,4 @@
             :url "http://www.eclipse.org/legal/epl-v10.html"}
   :dependencies [[org.clojure/clojure "1.4.0"]
                  [org.msgpack/msgpack-rpc "0.6.1-devel"]]
-  :repositories {"MessagePack Repository for Maven" "http://msgpack.org/maven2/"}
-  :aot :all)
+  :repositories {"MessagePack Repository for Maven" "http://msgpack.org/maven2/"})
