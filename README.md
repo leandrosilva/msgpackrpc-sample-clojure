@@ -1,11 +1,12 @@
 # msgpackrpc-sample
 
-This is a sample of MessagePack-RPC client/server built in Clojure powered by the Java implementation.
+This is a sample of a MessagePack-RPC client/server application built in Clojure and powered by the Java's MessagePack-RPC implementation.
 
 ### MessagePack
 
-    http://wiki.msgpack.org/display/MSGPACK/Home
-    http://wiki.msgpack.org/display/MSGPACK/QuickStart+for+Java
+* [The MessagePack Project](http://msgpack.org)
+* [MessagePack Wiki](http://wiki.msgpack.org/display/MSGPACK/Home)
+* [QuickStart for Java](http://wiki.msgpack.org/display/MSGPACK/QuickStart+for+Java)
 
 ## Usage
 
@@ -19,7 +20,7 @@ This is a sample of MessagePack-RPC client/server built in Clojure powered by th
 
 I have also a sample of a Java client talking to the Clojure server.
 
-    https://gist.github.com/2887043
+* [https://gist.github.com/2887043](https://gist.github.com/2887043)
 
 ## License
 
