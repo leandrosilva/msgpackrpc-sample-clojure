@@ -1,6 +1,6 @@
 # msgpackrpc-sample
 
-This is a sample of MessagePack-RPC built in Clojure powered by the Java implementation.
+This is a sample of MessagePack-RPC client/server built in Clojure powered by the Java implementation.
 
 ### MessagePack
 
